@@ -1,0 +1,11 @@
+I have the list of locations and event codes that I need to transcribe, I think the data goes back far enough, but it is hard to interpret
+
+I need to make a system that feeds data into the model every day that there is data availible, I must put all of the stories from the time in between together to influence the next trading day, it should use every piece of data optimally
+
+I need ROCm to actually run the models smoothly, and I need to make three models, one as a CNN, one as an LSTM, and one as a CNN-LSTM
+
+Making the data able to be fit into the model is difficult, ROCm integration is going to be difficult
+
+Number of elements in Actor1Name: 300
+Number of elements in Actor2Name: 300
+Number of elements in EventCode: 512
